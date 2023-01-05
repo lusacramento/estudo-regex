@@ -26,7 +26,7 @@
 					<img
 						v-if="name.isCorrect"
 						class="img-fluid"
-						src="./assets/img/icon-ok.svg"
+						src="~/assets/img/icon-ok.svg"
 						width="35"
 						alt=""
 					/>
@@ -51,7 +51,7 @@
 					<img
 						v-if="email.isCorrect"
 						class="img-fluid"
-						src="./assets/img/icon-ok.svg"
+						src="~/assets/img/icon-ok.svg"
 						width="35"
 						alt=""
 					/>
@@ -76,7 +76,7 @@
 					<img
 						v-if="phone.isCorrect"
 						class="img-fluid"
-						src="./assets/img/icon-ok.svg"
+						src="~/assets/img/icon-ok.svg"
 						width="35"
 						alt=""
 					/>
@@ -101,7 +101,7 @@
 					<img
 						v-if="cpf.isCorrect"
 						class="img-fluid"
-						src="./assets/img/icon-ok.svg"
+						src="~/assets/img/icon-ok.svg"
 						width="35"
 						alt=""
 					/>
