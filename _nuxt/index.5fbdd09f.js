@@ -1,1 +1,0 @@
-import{a as t,b as n,o,e}from"./entry.bcb9b119.js";const s={},_={class:"text-center"},a=e("h2",null,"Obrigado por utilizar nosso app!",-1),c=e("a",{href:"/"},[e("button",{class:"btn btn-warning mt-3"},"Voltar")],-1),r=[a,c];function i(d,l){return o(),n("div",_,r)}const u=t(s,[["render",i]]);export{u as default};
